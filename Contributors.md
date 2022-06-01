@@ -11,13 +11,25 @@ You'll need to have some basic experience with Git, Markdown and GitHub
   * [Git commands in depth](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
   * [How to Create a Markdown Table](https://www.makeuseof.com/tag/create-markdown-table/)
 
-Ensure your pull request adheres to the following guidelines:
 
-- Search previous resources before making a new one to avoid duplicates.
-- Create a new branch with the name of your resources/tutorials
-- Make an individual pull request for each resources.
-- Make sure to add resource or tutorial details in your pull request to enable us understand what materials you are sharing.
+## Follow this few steps fi you are confident of your markdown skills
 
++ Fork the [Web3 Nation](https://github.com/web3-Nation/Resources) Repository
 
++ Clone the forked repository to your local machine ```git clone https://github.com/{{yourGithubUsername}}/Resources.git```
 
-Only original contents can be shared with the community,Thank you!
++ Make sure you have ```fetch``` and ```push``` remotes on your forked copy by running the ```git remote -v``` command
+
++ Create a new branch ```git branch branchName``` for your addition or feature
+
++  Switch to the newly created branch using ```git checkout branchName```
+
++  You can confirm your changes are being made on the newly created branch by running ```git branch```. The current branch will be highlighted with an asterisk beside it
+
++  Make your additions
+
++  Push your changes to your forked repo, ```git push origin branchName```
+
++ Finally,make a pull request and wait for it to be merged.
+
+Cheers!.

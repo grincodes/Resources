@@ -8,26 +8,11 @@ If you're here:
 
 The goal of this project is to empower you with resources related to web3 for Developers, Designers, anyone at all in web3!, providing you with the resources required to master the mechanics of this technology in an interactive experience.
 
-Let's dive in.
+## Please note to
 
-## Contribution Guidelines
+- Search previous resources before making a new one to avoid duplicates.
 
-+ Fork the [Web3 Nation](https://github.com/web3-Nation/Resources) Repository
+- Only original contents (where author gives permission),open source materials should be shared with the community.
 
-+ Clone the forked repository to your local machine ```git clone https://github.com/{{yourGithubUsername}}/Resources.git```
 
-+ Make sure you have ```fetch``` and ```push``` remotes on your forked copy by running the ```git remote -v``` command
-
-+ Create a new branch ```git branch branchName``` for your addition or feature
-
-+  Switch to the newly created branch using ```git checkout branchName```
-
-+  You can confirm your changes are being made on the newly created branch by running ```git branch```. The current branch will be highlighted with an asterisk beside it
-
-+  Make your additions
-
-+  Push your changes to your forked repo, ```git push origin branchName```
-
-+ Finally,make a pull request and wait for it to be merged.
-
-Cheers!.
+Thank you!
