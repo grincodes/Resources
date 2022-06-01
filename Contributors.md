@@ -14,7 +14,10 @@ You'll need to have some basic experience with Git, Markdown and GitHub
 Ensure your pull request adheres to the following guidelines:
 
 - Search previous resources before making a new one to avoid duplicates.
+- Create a new branch with the name of your resources/tutorials
 - Make an individual pull request for each resources.
+- Make sure to add resource or tutorial details in your pull request to enable us understand what materials you are sharing.
 
 
-Thank you for your suggestion!
+
+Only original contents can be shared with the community,Thank you!
